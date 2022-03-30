@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @joshdey
 - 👀 I’m interested in data science applications and artificial intelligence research and it's intersection with computational neuroscience (reinforcement learning specifically)
-- 🌱 I’m currently learning reinforcement learning and certain applications in decision making. 
-- 💞️ I’m looking to collaborate on anything data science, AI, music, or NBA related. 
 - 📫 You can reach me at my email, josh.dey@gmail.com
